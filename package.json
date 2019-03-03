@@ -1,0 +1,20 @@
+{
+  "name": "polython19-form",
+  "description": "form to get data from the users",
+  "main": "polython19-form.js",
+  "dependencies": {
+    "@polymer/iron-form": "git+https://github.com/PolymerElements/iron-form.git",
+    "@polymer/paper-button": "git+https://github.com/PolymerElements/paper-button.git",
+    "@polymer/paper-checkbox": "git+https://github.com/PolymerElements/paper-checkbox.git",
+    "@polymer/paper-input": "git+https://github.com/PolymerElements/paper-input.git",
+    "@polymer/polymer": "^3.0.0"
+  },
+  "devDependencies": {
+    "@polymer/iron-demo-helpers": "^3.0.0-pre.19",
+    "@polymer/test-fixture": "^4.0.2",
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "wct-mocha": "^1.0.0"
+  }
+}
