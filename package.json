@@ -5,7 +5,6 @@
   "dependencies": {
     "@polymer/iron-form": "git+https://github.com/PolymerElements/iron-form.git",
     "@polymer/paper-button": "git+https://github.com/PolymerElements/paper-button.git",
-    "@polymer/paper-checkbox": "git+https://github.com/PolymerElements/paper-checkbox.git",
     "@polymer/paper-input": "git+https://github.com/PolymerElements/paper-input.git",
     "@polymer/polymer": "^3.0.0"
   },
