@@ -1,8 +1,10 @@
 {
   "name": "polython19-form",
-  "description": "form to get data from the users",
+  "description": "",
   "main": "polython19-form.js",
-  "version": "1.0",
+  "version": "1.0.0",
+  "repository": "https://github.com/CarlosSantoyo/polython19_form.git",
+  "license": "",
   "dependencies": {
     "@polymer/iron-form": "git+https://github.com/PolymerElements/iron-form.git",
     "@polymer/paper-button": "git+https://github.com/PolymerElements/paper-button.git",
